@@ -1,7 +1,7 @@
 # Doom Scribe
 Gelasio variant font, with modified letter glyphs and punctuation, intended to be highly readable with a small footprint, 70KB in total. Pre-subsetted for latin, see usage for valid glyph ranges.
 
-![](https://github.com/metaexpression/doom-scribe/blob/0c4a75f6c207a62885cb6fb17cae3b94d4500547/screenshot-1.png)
+![](https://github.com/metaexpression/doom-scribe/blob/aaf6fb77418f48fd0d39a041eb19ce4d5150eb9c/screenshot.png)
 
 ## usage
 
